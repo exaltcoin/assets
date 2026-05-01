@@ -1,0 +1,11 @@
+{
+  "name": "Exalt Coin",
+  "symbol": "EXALT",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Exalt Coin - Mining & Reward Based Token",
+  "website": "https://exaltcoinsystem.com",
+  "explorer": "https://bscscan.com/token/0x341ba9CA7E7872F7E743F9e7eF1b48B9eE314EB8",
+  "status": "active",
+  "id": "0x341ba9CA7E7872F7E743F9e7eF1b48B9eE314EB8"
+}
