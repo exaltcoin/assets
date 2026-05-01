@@ -5,7 +5,21 @@
   "decimals": 18,
   "description": "Exalt Coin - Mining & Reward Based Token",
   "website": "https://exaltcoinsystem.com",
-  "explorer": "https://bscscan.com/token/0x341ba9CA7E7872F7E743F9e7eF1b48B9eE314EB8",
+  "explorer": "https://bscscan.com/token/0x341ba9CA7E7872F7E743F9e7eF1b4889eE314EB8",
   "status": "active",
-  "id": "0x341ba9CA7E7872F7E743F9e7eF1b48B9eE314EB8"
+  "id": "0x341ba9CA7E7872F7E743F9e7eF1b4889eE314EB8",
+  "links": [
+    {
+      "name": "website",
+      "url": "https://exaltcoinsystem.com"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/exalt_coin?s=21"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/offical_exaltcoin"
+    }
+  ]
 }
